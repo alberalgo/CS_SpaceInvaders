@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ed4dd638f08e52c6c8f6d68bc2da07c1a35b6d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_7471c0f502818a9f2939a9d5e0837bae35f7cd75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecbd89edac91060ed4497195ba53ab4201e614e8">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_312b7a3ce277f5529d11b1d14543e7d0bd34b526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_8c80fd50d49eb079f69c56bc5da19e4c8d61c920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="898387eaa98f74aaf8e93d7bfcb611a1296a6e23">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fb25a632b775536c2f6e5560846013305311f035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7023d874328010c26613512223c755cd1ff189eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7db22f43b899af24bddd8758926dd017458f5cdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="862679f96151949a102d37b018d962961019dc65">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.2.2_5a0dec9bb30bc34dcf8b38c66336776ad4d5798a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/alberto/Desktop/Space-invaders-android-desarrollo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_ac590ba9f9bc329da8cb7ae6bf92c96cf0830a97/classes.dex" />
+    </item>
+
+</items>
